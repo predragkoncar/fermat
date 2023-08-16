@@ -1,2 +1,2 @@
-# fermat
+# Fermat
 Fermat's Last Theorem
